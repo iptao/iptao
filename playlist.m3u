@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel7.bz" tvg-logo="https://i.imgur.com/bazepkM.png" group-title="General",Channel 7
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+#EXTINF:-1 tvg-id="KremTV.bz" tvg-logo="https://i.imgur.com/NrYX2Zd.png" group-title="General",Krem TV
+https://https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+#EXTINF:-1 tvg-id="LoveTelevision.bz" tvg-logo="https://i.imgur.com/nT3Wxr6.png" group-title="News",Love Television
+https://https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd&id=2722647f77b44824c432a3c4555830a2&k=1734befb82f4b438bd84195f6c212e7b
